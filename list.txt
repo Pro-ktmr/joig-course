@@ -1,0 +1,37 @@
+00,Hello World (状況表示不可),https://atcoder.jp/contests/APG4b/tasks/APG4b_a
+
+01-例題,合計時間,https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_a
+01-類題1,box,https://atcoder.jp/contests/abc180/tasks/abc180_a
+01-類題2,Discount Fare,https://atcoder.jp/contests/abc113/tasks/abc113_a
+01-類題3,Calc,https://atcoder.jp/contests/abc172/tasks/abc172_a
+01-類題4,Garden,https://atcoder.jp/contests/abc106/tasks/abc106_a
+01-類題5,Payment,https://atcoder.jp/contests/abc173/tasks/abc173_a
+
+02-例題,電子レンジ,https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_a
+02-類題1,Rounding,https://atcoder.jp/contests/abc130/tasks/abc130_a
+02-類題2,帰省,https://atcoder.jp/contests/joi2021yo1b/tasks/joi2021_yo1b_a
+02-類題3,3 つの整数,https://atcoder.jp/contests/joi2020yo1a/tasks/joi2020_yo1a_a
+02-類題4,X に最も近い値,https://atcoder.jp/contests/joi2020yo1c/tasks/joi2020_yo1c_a
+02-類題5,鉛筆,https://atcoder.jp/contests/joi2018yo/tasks/joi2018_yo_a
+
+03-例題,Homework,https://atcoder.jp/contests/abc163/tasks/abc163_b
+03-類題0,Roller Coaster,https://atcoder.jp/contests/abc142/tasks/abc142_b
+03-類題1,Achieve the Goal,https://atcoder.jp/contests/abc151/tasks/abc151_b
+03-類題2,Distance,https://atcoder.jp/contests/abc174/tasks/abc174_b
+03-類題3,FizzBuzz Sum,https://atcoder.jp/contests/abc162/tasks/abc162_b
+03-類題4,Great Ocean View,https://atcoder.jp/contests/abc124/tasks/abc124_b
+03-類題5,双六,https://atcoder.jp/contests/joi2018yo/tasks/joi2018_yo_b
+
+04-例題,キャピタリゼーション,https://atcoder.jp/contests/joi2020yo1c/tasks/joi2020_yo1c_b
+04-類題1,Plural Form,https://atcoder.jp/contests/abc179/tasks/abc179_a
+04-類題2,JOI ソート,https://atcoder.jp/contests/joi2021yo1a/tasks/joi2021_yo1a_b
+04-類題3,IOI 文字列,https://atcoder.jp/contests/joi2021yo1c/tasks/joi2021_yo1c_b
+04-類題4,シーザー暗号,https://atcoder.jp/contests/joi2007yo/tasks/joi2007yo_c
+04-類題5,文字列の反転,https://atcoder.jp/contests/joi2020yo1b/tasks/joi2020_yo1b_b
+
+05-例題,最頻値,https://atcoder.jp/contests/joi2020yo1b/tasks/joi2020_yo1b_c
+05-類題1,分割,https://atcoder.jp/contests/joi2021yo1b/tasks/joi2021_yo1b_c
+05-類題2,未提出者は誰だ,https://atcoder.jp/contests/joi2007yo/tasks/joi2007yo_b
+05-類題3,Counting Roads,https://atcoder.jp/contests/abc061/tasks/abc061_b
+05-類題4,共通要素,https://atcoder.jp/contests/joi2021yo1a/tasks/joi2021_yo1a_c
+05-類題5,Kagami Mochi,https://atcoder.jp/contests/abc085/tasks/abc085_b

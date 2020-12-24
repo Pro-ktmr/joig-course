@@ -1,0 +1,54 @@
+h1{
+  font-size: xx-large;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+a{
+  color: #4444FF;
+}
+
+h1 a{
+  color: black;
+}
+
+div#main{
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 0.2em;
+  padding-top: 1em;
+}
+
+div#problem{
+  margin-top: 1em;
+}
+
+table{
+  line-height: 2;
+}
+
+span.label-ac{
+  display: inline;
+  padding: .2em .6em .3em;
+  font-size: 80%;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+  background-color: #5cb85c;
+}
+
+span.label-wa{
+  display: inline;
+  padding: .2em .6em .3em;
+  font-size: 80%;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+  background-color: #d9534f;
+}
