@@ -15,9 +15,8 @@
 02-類題5,鉛筆,https://atcoder.jp/contests/joi2018yo/tasks/joi2018_yo_a
 
 03-例題,Homework,https://atcoder.jp/contests/abc163/tasks/abc163_b
-03-類題0,Roller Coaster,https://atcoder.jp/contests/abc142/tasks/abc142_b
-03-類題1,Achieve the Goal,https://atcoder.jp/contests/abc151/tasks/abc151_b
-03-類題2,Distance,https://atcoder.jp/contests/abc174/tasks/abc174_b
+03-類題1,Roller Coaster,https://atcoder.jp/contests/abc142/tasks/abc142_b
+03-類題2,Achieve the Goal,https://atcoder.jp/contests/abc151/tasks/abc151_b
 03-類題3,FizzBuzz Sum,https://atcoder.jp/contests/abc162/tasks/abc162_b
 03-類題4,Great Ocean View,https://atcoder.jp/contests/abc124/tasks/abc124_b
 03-類題5,双六,https://atcoder.jp/contests/joi2018yo/tasks/joi2018_yo_b
