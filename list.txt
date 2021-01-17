@@ -23,8 +23,8 @@
 
 04-例題,キャピタリゼーション,https://atcoder.jp/contests/joi2020yo1c/tasks/joi2020_yo1c_b
 04-類題1,Plural Form,https://atcoder.jp/contests/abc179/tasks/abc179_a
-04-類題2,JOI ソート,https://atcoder.jp/contests/joi2021yo1a/tasks/joi2021_yo1a_b
-04-類題3,IOI 文字列,https://atcoder.jp/contests/joi2021yo1c/tasks/joi2021_yo1c_b
+04-類題2,IOI 文字列,https://atcoder.jp/contests/joi2021yo1c/tasks/joi2021_yo1c_b
+04-類題3,JOI ソート,https://atcoder.jp/contests/joi2021yo1a/tasks/joi2021_yo1a_b
 04-類題4,シーザー暗号,https://atcoder.jp/contests/joi2007yo/tasks/joi2007yo_c
 04-類題5,文字列の反転,https://atcoder.jp/contests/joi2020yo1b/tasks/joi2020_yo1b_b
 
