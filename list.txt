@@ -32,5 +32,5 @@
 05-類題1,分割,https://atcoder.jp/contests/joi2021yo1b/tasks/joi2021_yo1b_c
 05-類題2,未提出者は誰だ,https://atcoder.jp/contests/joi2007yo/tasks/joi2007yo_b
 05-類題3,Counting Roads,https://atcoder.jp/contests/abc061/tasks/abc061_b
-05-類題4,共通要素,https://atcoder.jp/contests/joi2021yo1a/tasks/joi2021_yo1a_c
-05-類題5,Kagami Mochi,https://atcoder.jp/contests/abc085/tasks/abc085_b
+05-類題4,Kagami Mochi,https://atcoder.jp/contests/abc085/tasks/abc085_b
+05-類題5,共通要素,https://atcoder.jp/contests/joi2021yo1a/tasks/joi2021_yo1a_c
