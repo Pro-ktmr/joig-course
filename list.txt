@@ -69,3 +69,10 @@
 11-類題3,March,https://atcoder.jp/contests/abc089/tasks/abc089_c
 11-類題4,Mandarin Orange,https://atcoder.jp/contests/abc189/tasks/abc189_c
 11-類題5,Sum of product of pairs,https://atcoder.jp/contests/abc177/tasks/abc177_c
+
+12-例題,旅人,https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a
+12-類題1,最大の和,https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_a
+12-類題2,Attention,https://atcoder.jp/contests/abc098/tasks/arc098_a
+12-類題3,勇者ビ太郎,https://atcoder.jp/contests/joi2019ho/tasks/joi2019ho_a
+12-類題4,惑星探査,https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1
+12-類題5,鉄道旅行,https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_a
