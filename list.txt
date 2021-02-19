@@ -76,3 +76,17 @@
 12-類題3,勇者ビ太郎,https://atcoder.jp/contests/joi2019ho/tasks/joi2019ho_a
 12-類題4,惑星探査,https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1
 12-類題5,鉄道旅行,https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_a
+
+14-例題,Vacation,https://atcoder.jp/contests/dp/tasks/dp_c
+14-類題1,Frog 1,https://atcoder.jp/contests/dp/tasks/dp_a
+14-類題2,Frog 2,https://atcoder.jp/contests/dp/tasks/dp_b
+14-類題3,パスタ,https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_d
+14-類題4,1 年生,https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_d
+14-類題5,オレンジの出荷,https://atcoder.jp/contests/joi2016ho/tasks/joi2016ho_a
+
+15-例題,Knapsack 1,https://atcoder.jp/contests/dp/tasks/dp_d
+15-類題1,部活のスケジュール表,https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d
+15-類題2,Grid 1,https://atcoder.jp/contests/dp/tasks/dp_h
+15-類題3,夜店,https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho3
+15-類題4,IOI 饅頭,https://atcoder.jp/contests/joi2014ho/tasks/joi2014ho2
+15-類題5,古本屋,https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho2
