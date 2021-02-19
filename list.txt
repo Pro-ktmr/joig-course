@@ -34,3 +34,32 @@
 05-類題3,Counting Roads,https://atcoder.jp/contests/abc061/tasks/abc061_b
 05-類題4,Kagami Mochi,https://atcoder.jp/contests/abc085/tasks/abc085_b
 05-類題5,共通要素,https://atcoder.jp/contests/joi2021yo1a/tasks/joi2021_yo1a_c
+
+06-例題,Entrance Examination,https://atcoder.jp/contests/abc117/tasks/abc117_a
+06-類題1,Digital Gifts,https://atcoder.jp/contests/abc119/tasks/abc119_b
+06-類題2,Resistors in Parallel,https://atcoder.jp/contests/abc138/tasks/abc138_b
+06-類題3,Billiards,https://atcoder.jp/contests/abc183/tasks/abc183_b
+
+07-例題,ABC Preparation,https://atcoder.jp/contests/abc185/tasks/abc185_a
+07-類題1,ReLU,https://atcoder.jp/contests/abc183/tasks/abc183_a
+07-類題2,Product Max,https://atcoder.jp/contests/abc178/tasks/abc178_b
+07-類題3,Various distances,https://atcoder.jp/contests/abc180/tasks/abc180_b
+
+08-例題,Fennec vs Monster,https://atcoder.jp/contests/abc153/tasks/abc153_c
+08-類題1,コンテスト,https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_b
+08-類題2,Card Game for Two,https://atcoder.jp/contests/abc088/tasks/abc088_b
+08-類題3,最高のピザ,https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_c
+
+09-例題,投票,https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_b
+09-類題1,比較,https://atcoder.jp/contests/joi2021yo1c/tasks/joi2021_yo1c_c
+09-類題2,指輪,https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_b
+09-類題3,ビ太郎と IOI,https://atcoder.jp/contests/joi2021yo1b/tasks/joi2021_yo1b_b
+09-類題4,ゼッケンの交換,https://atcoder.jp/contests/joi2016yo/tasks/joi2016yo_b
+09-類題5,星座探し,https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d
+
+10-例題,Blocks on Grid,https://atcoder.jp/contests/abc186/tasks/abc186_b
+10-類題1,気象予報士,https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_c
+10-類題2,休憩スペース,https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_c
+10-類題3,ロシアの旗,https://atcoder.jp/contests/joi2016yo/tasks/joi2016yo_c
+10-類題4,幹線道路,https://atcoder.jp/contests/joi2018yo/tasks/joi2018_yo_c
+10-類題5,ポスター,https://atcoder.jp/contests/joi2020yo2/tasks/joi2020_yo2_a
