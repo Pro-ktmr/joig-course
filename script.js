@@ -56,6 +56,10 @@ window.onload = function () {
     if (atcoder_id.value != "") {
         var text = atcoder_id.value.split(',');
         for (var k = 0; k < text.length; k++) {
+            if(text[k] == '*') {
+                problem_tbody.rows[i].cells[2].innerHTML += '<span class="label-blank">' + text[k] + '</span> ';
+                continue;
+            }
             var req = new XMLHttpRequest();
             req.open("GET", "https://kenkoooo.com/atcoder/atcoder-api/results?user=" + text[k], false);
             req.send(null);
