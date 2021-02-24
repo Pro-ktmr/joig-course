@@ -83,6 +83,9 @@ window.onload = function () {
                 else if (tmp == 1) {
                     problem_tbody.rows[i].cells[2].innerHTML += '<span class="label-wa">' + text[k] + '</span> ';
                 }
+                else {
+                    problem_tbody.rows[i].cells[2].innerHTML += '<span class="label-non">' + text[k] + '</span> ';
+                }
             }
         }
     }
