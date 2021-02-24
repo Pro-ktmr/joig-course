@@ -12,11 +12,16 @@ h1 a{
   color: black;
 }
 
+body{
+  text-align: center;
+}
+
 div#main{
-  max-width: 950px;
+  display: inline-block;
   margin: 0 auto;
   padding: 0.2em;
   padding-top: 1em;
+  text-align: left;
 }
 
 div#problem{
