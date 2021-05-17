@@ -1,4 +1,4 @@
-00,Hello World (状況表示不可),https://atcoder.jp/contests/APG4b/tasks/APG4b_a
+00,Hello World,https://atcoder.jp/contests/APG4b/tasks/APG4b_a
 
 01-例題,合計時間,https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_a
 01-類題1,box,https://atcoder.jp/contests/abc180/tasks/abc180_a
